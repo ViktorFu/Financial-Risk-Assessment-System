@@ -1,0 +1,3 @@
+id,rule_id,log_id,risk_level,list_type,business_line,risk_label,risk_domain,value,value_type,creator,create_time
+1,1,1,3,2,1,2,1,John Doe,1,admin,2025-04-12
+2,2,2,2,1,2,1,3,Jane Smith,2,admin,2025-04-12

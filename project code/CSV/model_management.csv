@@ -1,0 +1,8 @@
+id,log_id,model_name,model_file,model_version,environment,caller,approver,verified,rollback,create_time
+1,1,Model A,b'filedata',1,production,admin,manager,1,0,2025/4/12
+2,2,Model B,b'filedata',2,development,user1,manager,0,1,2025/4/12
+3,3,Model C,b'filedata',1,production,user2,manager,1,0,2025/4/12
+4,4,Model D,b'filedata',2,testing,admin,manager,0,1,2025/4/12
+5,5,Model E,b'filedata',3,production,user3,manager,1,0,2025/4/12
+6,6,Model F,b'filedata',4,development,admin,manager,0,1,2025/4/12
+7,7,Model G,b'filedata',5,production,user4,manager,1,0,2025/4/12

@@ -1,0 +1,3 @@
+id,log_id,operator,operation,error_info,exception_info,is_warning,is_done,warning_type,create_time
+1,1,admin,Create,,,0,1,None,2025-04-12
+2,2,user1,Update,Invalid Input,Value not found,1,0,Input Error,2025-04-12

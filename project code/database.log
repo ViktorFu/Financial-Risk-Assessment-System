@@ -1,0 +1,1409 @@
+2025-04-12 21:35:25,498 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 21:39:59,034 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 21:43:02,124 - database - INFO - æˆåŠŸä» ./CSV\users.csv å¯¼å…¥ users è¡¨
+2025-04-12 21:43:02,125 - database - INFO - æˆåŠŸä» ./CSV\logs.csv å¯¼å…¥ logs è¡¨
+2025-04-12 21:43:02,126 - database - INFO - æˆåŠŸä» ./CSV\name_list.csv å¯¼å…¥ name_list è¡¨
+2025-04-12 21:43:02,128 - database - INFO - CSVæ•°æ®åˆå§‹åŒ–å®Œæˆ
+2025-04-12 21:43:02,128 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 21:44:13,028 - risk_control - INFO - æ·»åŠ æ—¥å¿— å–æ¶ˆéªŒè¯æ¨¡å‹ ID: 1 æˆåŠŸ
+2025-04-12 21:44:13,028 - model_management - INFO - å–æ¶ˆéªŒè¯æ¨¡å‹(ID: 1) å¤±è´¥
+2025-04-12 21:44:16,230 - risk_control - INFO - æ·»åŠ æ—¥å¿— å›æ»šæ¨¡å‹ ID: 1 æˆåŠŸ
+2025-04-12 21:44:16,230 - model_management - INFO - è®¾ç½®æ¨¡å‹å›æ»š(ID: 1) å¤±è´¥
+2025-04-12 21:45:21,274 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 21:47:10,440 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 21:47:53,003 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 21:51:16,347 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 21:58:17,362 - database - INFO - æˆåŠŸä» ./CSV\users.csv å¯¼å…¥ users è¡¨
+2025-04-12 21:58:17,362 - database - INFO - æˆåŠŸä» ./CSV\logs.csv å¯¼å…¥ logs è¡¨
+2025-04-12 21:58:17,362 - database - INFO - æˆåŠŸä» ./CSV\name_list.csv å¯¼å…¥ name_list è¡¨
+2025-04-12 21:58:17,364 - database - INFO - CSVæ•°æ®åˆå§‹åŒ–å®Œæˆ
+2025-04-12 21:58:17,364 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 22:02:24,924 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 22:02:36,208 - database - INFO - æˆåŠŸä» ./CSV\users.csv å¯¼å…¥ users è¡¨
+2025-04-12 22:02:36,208 - database - INFO - æˆåŠŸä» ./CSV\logs.csv å¯¼å…¥ logs è¡¨
+2025-04-12 22:02:36,208 - database - INFO - æˆåŠŸä» ./CSV\name_list.csv å¯¼å…¥ name_list è¡¨
+2025-04-12 22:02:36,211 - database - INFO - CSVæ•°æ®åˆå§‹åŒ–å®Œæˆ
+2025-04-12 22:02:36,211 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 22:08:54,281 - database - INFO - æˆåŠŸä» ./CSV\users.csv å¯¼å…¥ users è¡¨
+2025-04-12 22:08:54,281 - database - INFO - æˆåŠŸä» ./CSV\logs.csv å¯¼å…¥ logs è¡¨
+2025-04-12 22:08:54,281 - database - INFO - æˆåŠŸä» ./CSV\name_list.csv å¯¼å…¥ name_list è¡¨
+2025-04-12 22:08:54,283 - database - INFO - CSVæ•°æ®åˆå§‹åŒ–å®Œæˆ
+2025-04-12 22:08:54,283 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 22:12:18,479 - database - INFO - æˆåŠŸä» ./CSV\users.csv å¯¼å…¥ users è¡¨
+2025-04-12 22:12:18,479 - database - INFO - æˆåŠŸä» ./CSV\logs.csv å¯¼å…¥ logs è¡¨
+2025-04-12 22:12:18,480 - database - INFO - æˆåŠŸä» ./CSV\name_list.csv å¯¼å…¥ name_list è¡¨
+2025-04-12 22:12:18,481 - database - INFO - CSVæ•°æ®åˆå§‹åŒ–å®Œæˆ
+2025-04-12 22:12:18,481 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 22:12:48,828 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 22:13:59,883 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 22:14:44,196 - database - INFO - æˆåŠŸä» ./CSV\users.csv å¯¼å…¥ users è¡¨
+2025-04-12 22:14:44,196 - database - INFO - æˆåŠŸä» ./CSV\logs.csv å¯¼å…¥ logs è¡¨
+2025-04-12 22:14:44,196 - database - INFO - æˆåŠŸä» ./CSV\name_list.csv å¯¼å…¥ name_list è¡¨
+2025-04-12 22:14:44,198 - database - INFO - CSVæ•°æ®åˆå§‹åŒ–å®Œæˆ
+2025-04-12 22:14:44,198 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 22:15:09,082 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 22:17:09,880 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 22:18:16,796 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 22:20:05,334 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 22:20:54,480 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 22:25:14,358 - database - INFO - æˆåŠŸä» ./CSV\users.csv å¯¼å…¥ users è¡¨
+2025-04-12 22:25:14,358 - database - INFO - æˆåŠŸä» ./CSV\logs.csv å¯¼å…¥ logs è¡¨
+2025-04-12 22:25:14,359 - database - INFO - æˆåŠŸä» ./CSV\name_list.csv å¯¼å…¥ name_list è¡¨
+2025-04-12 22:25:14,361 - database - INFO - CSVæ•°æ®åˆå§‹åŒ–å®Œæˆ
+2025-04-12 22:25:14,361 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 22:28:27,206 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 22:32:37,284 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 22:35:20,551 - database - INFO - æˆåŠŸä» ./CSV\users.csv å¯¼å…¥ users è¡¨
+2025-04-12 22:35:20,551 - database - INFO - æˆåŠŸä» ./CSV\logs.csv å¯¼å…¥ logs è¡¨
+2025-04-12 22:35:20,551 - database - INFO - æˆåŠŸä» ./CSV\name_list.csv å¯¼å…¥ name_list è¡¨
+2025-04-12 22:35:20,553 - database - INFO - CSVæ•°æ®åˆå§‹åŒ–å®Œæˆ
+2025-04-12 22:35:20,553 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 22:35:45,494 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 22:37:21,323 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 22:39:02,542 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 22:40:08,235 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 22:42:33,093 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 22:53:18,737 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 22:57:49,513 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 22:58:25,857 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 23:00:36,101 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 23:00:52,292 - database - WARNING - CSVæ–‡ä»¶ ./CSV\users.csv ä¸å­˜åœ¨ï¼Œè·³è¿‡åˆå§‹åŒ–
+2025-04-12 23:00:52,293 - database - WARNING - CSVæ–‡ä»¶ ./CSV\logs.csv ä¸å­˜åœ¨ï¼Œè·³è¿‡åˆå§‹åŒ–
+2025-04-12 23:00:52,293 - database - WARNING - CSVæ–‡ä»¶ ./CSV\name_list.csv ä¸å­˜åœ¨ï¼Œè·³è¿‡åˆå§‹åŒ–
+2025-04-12 23:00:52,293 - database - INFO - CSVæ•°æ®åˆå§‹åŒ–å®Œæˆ
+2025-04-12 23:00:52,293 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 23:01:43,201 - database - WARNING - CSVæ–‡ä»¶ ./CSV\users.csv ä¸å­˜åœ¨ï¼Œè·³è¿‡åˆå§‹åŒ–
+2025-04-12 23:01:43,202 - database - WARNING - CSVæ–‡ä»¶ ./CSV\logs.csv ä¸å­˜åœ¨ï¼Œè·³è¿‡åˆå§‹åŒ–
+2025-04-12 23:01:43,202 - database - WARNING - CSVæ–‡ä»¶ ./CSV\name_list.csv ä¸å­˜åœ¨ï¼Œè·³è¿‡åˆå§‹åŒ–
+2025-04-12 23:01:43,202 - database - INFO - CSVæ•°æ®åˆå§‹åŒ–å®Œæˆ
+2025-04-12 23:01:43,202 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 23:03:12,315 - database - INFO - æˆåŠŸä» ./CSV\users.csv å¯¼å…¥ users è¡¨
+2025-04-12 23:03:12,316 - database - INFO - æˆåŠŸä» ./CSV\logs.csv å¯¼å…¥ logs è¡¨
+2025-04-12 23:03:12,317 - database - INFO - æˆåŠŸä» ./CSV\name_list.csv å¯¼å…¥ name_list è¡¨
+2025-04-12 23:03:12,319 - database - INFO - CSVæ•°æ®åˆå§‹åŒ–å®Œæˆ
+2025-04-12 23:03:12,319 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 23:07:14,747 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 23:09:02,188 - database - INFO - æˆåŠŸä» ./CSV\users.csv å¯¼å…¥ users è¡¨
+2025-04-12 23:09:02,189 - database - INFO - æˆåŠŸä» ./CSV\logs.csv å¯¼å…¥ logs è¡¨
+2025-04-12 23:09:02,189 - database - INFO - æˆåŠŸä» ./CSV\name_list.csv å¯¼å…¥ name_list è¡¨
+2025-04-12 23:09:02,190 - database - INFO - æˆåŠŸä» ./CSV\log_monitoring.csv å¯¼å…¥ log_monitoring è¡¨
+2025-04-12 23:09:02,204 - database - INFO - æˆåŠŸä» ./CSV\model_management.csv å¯¼å…¥ model_management è¡¨
+2025-04-12 23:09:02,205 - database - INFO - æˆåŠŸä» ./CSV\rule_management.csv å¯¼å…¥ rule_management è¡¨
+2025-04-12 23:09:02,206 - database - INFO - æˆåŠŸä» ./CSV\credit_report.csv å¯¼å…¥ credit_report è¡¨
+2025-04-12 23:09:02,209 - database - INFO - CSVæ•°æ®åˆå§‹åŒ–å®Œæˆ
+2025-04-12 23:09:02,209 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 23:13:32,294 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 23:16:12,896 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 23:21:10,186 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 23:21:31,437 - database - INFO - æˆåŠŸä» ./CSV\users.csv å¯¼å…¥ users è¡¨
+2025-04-12 23:21:31,438 - database - INFO - æˆåŠŸä» ./CSV\logs.csv å¯¼å…¥ logs è¡¨
+2025-04-12 23:21:31,438 - database - INFO - æˆåŠŸä» ./CSV\name_list.csv å¯¼å…¥ name_list è¡¨
+2025-04-12 23:21:31,438 - database - INFO - æˆåŠŸä» ./CSV\log_monitoring.csv å¯¼å…¥ log_monitoring è¡¨
+2025-04-12 23:21:31,438 - database - INFO - æˆåŠŸä» ./CSV\model_management.csv å¯¼å…¥ model_management è¡¨
+2025-04-12 23:21:31,439 - database - INFO - æˆåŠŸä» ./CSV\rule_management.csv å¯¼å…¥ rule_management è¡¨
+2025-04-12 23:21:31,439 - database - INFO - æˆåŠŸä» ./CSV\credit_report.csv å¯¼å…¥ credit_report è¡¨
+2025-04-12 23:21:31,441 - database - INFO - CSVæ•°æ®åˆå§‹åŒ–å®Œæˆ
+2025-04-12 23:21:31,442 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 23:23:40,120 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 23:26:35,800 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 23:27:48,369 - database - INFO - æˆåŠŸä» ./CSV\users.csv å¯¼å…¥ users è¡¨
+2025-04-12 23:27:48,369 - database - INFO - æˆåŠŸä» ./CSV\logs.csv å¯¼å…¥ logs è¡¨
+2025-04-12 23:27:48,369 - database - INFO - æˆåŠŸä» ./CSV\name_list.csv å¯¼å…¥ name_list è¡¨
+2025-04-12 23:27:48,369 - database - INFO - æˆåŠŸä» ./CSV\log_monitoring.csv å¯¼å…¥ log_monitoring è¡¨
+2025-04-12 23:27:48,370 - database - INFO - æˆåŠŸä» ./CSV\model_management.csv å¯¼å…¥ model_management è¡¨
+2025-04-12 23:27:48,370 - database - INFO - æˆåŠŸä» ./CSV\rule_management.csv å¯¼å…¥ rule_management è¡¨
+2025-04-12 23:27:48,370 - database - INFO - æˆåŠŸä» ./CSV\credit_report.csv å¯¼å…¥ credit_report è¡¨
+2025-04-12 23:27:48,372 - database - INFO - CSVæ•°æ®åˆå§‹åŒ–å®Œæˆ
+2025-04-12 23:27:48,372 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 23:45:37,614 - database - INFO - æˆåŠŸä» ./CSV\users.csv å¯¼å…¥ users è¡¨
+2025-04-12 23:45:37,615 - database - INFO - æˆåŠŸä» ./CSV\logs.csv å¯¼å…¥ logs è¡¨
+2025-04-12 23:45:37,615 - database - INFO - æˆåŠŸä» ./CSV\name_list.csv å¯¼å…¥ name_list è¡¨
+2025-04-12 23:45:37,615 - database - INFO - æˆåŠŸä» ./CSV\log_monitoring.csv å¯¼å…¥ log_monitoring è¡¨
+2025-04-12 23:45:37,615 - database - INFO - æˆåŠŸä» ./CSV\model_management.csv å¯¼å…¥ model_management è¡¨
+2025-04-12 23:45:37,615 - database - INFO - æˆåŠŸä» ./CSV\rule_management.csv å¯¼å…¥ rule_management è¡¨
+2025-04-12 23:45:37,616 - database - INFO - æˆåŠŸä» ./CSV\credit_report.csv å¯¼å…¥ credit_report è¡¨
+2025-04-12 23:45:37,618 - database - INFO - CSVæ•°æ®åˆå§‹åŒ–å®Œæˆ
+2025-04-12 23:45:37,618 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 23:48:04,846 - database - INFO - æˆåŠŸä» ./CSV\users.csv å¯¼å…¥ users è¡¨
+2025-04-12 23:48:04,846 - database - INFO - æˆåŠŸä» ./CSV\logs.csv å¯¼å…¥ logs è¡¨
+2025-04-12 23:48:04,846 - database - INFO - æˆåŠŸä» ./CSV\name_list.csv å¯¼å…¥ name_list è¡¨
+2025-04-12 23:48:04,847 - database - INFO - æˆåŠŸä» ./CSV\log_monitoring.csv å¯¼å…¥ log_monitoring è¡¨
+2025-04-12 23:48:04,847 - database - INFO - æˆåŠŸä» ./CSV\model_management.csv å¯¼å…¥ model_management è¡¨
+2025-04-12 23:48:04,847 - database - INFO - æˆåŠŸä» ./CSV\rule_management.csv å¯¼å…¥ rule_management è¡¨
+2025-04-12 23:48:04,847 - database - INFO - æˆåŠŸä» ./CSV\credit_report.csv å¯¼å…¥ credit_report è¡¨
+2025-04-12 23:48:04,850 - database - INFO - CSVæ•°æ®åˆå§‹åŒ–å®Œæˆ
+2025-04-12 23:48:04,850 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 23:49:18,512 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 23:52:24,790 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-12 23:53:53,534 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 00:05:37,188 - database - INFO - æˆåŠŸä» ./CSV\users.csv å¯¼å…¥ users è¡¨
+2025-04-13 00:05:37,188 - database - INFO - æˆåŠŸä» ./CSV\logs.csv å¯¼å…¥ logs è¡¨
+2025-04-13 00:05:37,188 - database - INFO - æˆåŠŸä» ./CSV\name_list.csv å¯¼å…¥ name_list è¡¨
+2025-04-13 00:05:37,189 - database - INFO - æˆåŠŸä» ./CSV\log_monitoring.csv å¯¼å…¥ log_monitoring è¡¨
+2025-04-13 00:05:37,189 - database - INFO - æˆåŠŸä» ./CSV\model_management.csv å¯¼å…¥ model_management è¡¨
+2025-04-13 00:05:37,189 - database - INFO - æˆåŠŸä» ./CSV\rule_management.csv å¯¼å…¥ rule_management è¡¨
+2025-04-13 00:05:37,189 - database - INFO - æˆåŠŸä» ./CSV\credit_report.csv å¯¼å…¥ credit_report è¡¨
+2025-04-13 00:05:37,191 - database - INFO - CSVæ•°æ®åˆå§‹åŒ–å®Œæˆ
+2025-04-13 00:05:37,191 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 00:07:00,283 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 00:08:24,907 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 00:09:12,540 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 00:15:40,752 - database - INFO - æˆåŠŸä» ./CSV\users.csv å¯¼å…¥ users è¡¨
+2025-04-13 00:15:40,752 - database - INFO - æˆåŠŸä» ./CSV\logs.csv å¯¼å…¥ logs è¡¨
+2025-04-13 00:15:40,752 - database - INFO - æˆåŠŸä» ./CSV\name_list.csv å¯¼å…¥ name_list è¡¨
+2025-04-13 00:15:40,753 - database - INFO - æˆåŠŸä» ./CSV\log_monitoring.csv å¯¼å…¥ log_monitoring è¡¨
+2025-04-13 00:15:40,753 - database - INFO - æˆåŠŸä» ./CSV\model_management.csv å¯¼å…¥ model_management è¡¨
+2025-04-13 00:15:40,753 - database - INFO - æˆåŠŸä» ./CSV\rule_management.csv å¯¼å…¥ rule_management è¡¨
+2025-04-13 00:15:40,753 - database - INFO - æˆåŠŸä» ./CSV\credit_report.csv å¯¼å…¥ credit_report è¡¨
+2025-04-13 00:15:40,756 - database - INFO - CSVæ•°æ®åˆå§‹åŒ–å®Œæˆ
+2025-04-13 00:15:40,756 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 00:19:01,195 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 00:21:36,964 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 00:23:22,564 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 00:24:45,365 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 00:25:21,567 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 00:27:59,508 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 00:29:46,773 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 00:32:29,315 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 00:34:11,362 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 00:47:12,093 - database - INFO - æˆåŠŸä» ./CSV\users.csv å¯¼å…¥ users è¡¨
+2025-04-13 00:47:12,094 - database - INFO - æˆåŠŸä» ./CSV\logs.csv å¯¼å…¥ logs è¡¨
+2025-04-13 00:47:12,094 - database - INFO - æˆåŠŸä» ./CSV\name_list.csv å¯¼å…¥ name_list è¡¨
+2025-04-13 00:47:12,094 - database - INFO - æˆåŠŸä» ./CSV\log_monitoring.csv å¯¼å…¥ log_monitoring è¡¨
+2025-04-13 00:47:12,094 - database - INFO - æˆåŠŸä» ./CSV\model_management.csv å¯¼å…¥ model_management è¡¨
+2025-04-13 00:47:12,094 - database - INFO - æˆåŠŸä» ./CSV\rule_management.csv å¯¼å…¥ rule_management è¡¨
+2025-04-13 00:47:12,095 - database - INFO - æˆåŠŸä» ./CSV\credit_report.csv å¯¼å…¥ credit_report è¡¨
+2025-04-13 00:47:12,097 - database - INFO - CSVæ•°æ®åˆå§‹åŒ–å®Œæˆ
+2025-04-13 00:47:12,097 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 00:48:17,534 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 00:50:26,233 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 00:50:33,920 - database - INFO - æˆåŠŸä» ./CSV\users.csv å¯¼å…¥ users è¡¨
+2025-04-13 00:50:33,920 - database - INFO - æˆåŠŸä» ./CSV\logs.csv å¯¼å…¥ logs è¡¨
+2025-04-13 00:50:33,921 - database - INFO - æˆåŠŸä» ./CSV\name_list.csv å¯¼å…¥ name_list è¡¨
+2025-04-13 00:50:33,921 - database - INFO - æˆåŠŸä» ./CSV\log_monitoring.csv å¯¼å…¥ log_monitoring è¡¨
+2025-04-13 00:50:33,921 - database - INFO - æˆåŠŸä» ./CSV\model_management.csv å¯¼å…¥ model_management è¡¨
+2025-04-13 00:50:33,921 - database - INFO - æˆåŠŸä» ./CSV\rule_management.csv å¯¼å…¥ rule_management è¡¨
+2025-04-13 00:50:33,921 - database - INFO - æˆåŠŸä» ./CSV\credit_report.csv å¯¼å…¥ credit_report è¡¨
+2025-04-13 00:50:33,924 - database - INFO - CSVæ•°æ®åˆå§‹åŒ–å®Œæˆ
+2025-04-13 00:50:33,924 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 00:53:41,708 - database - INFO - æˆåŠŸä» ./CSV\users.csv å¯¼å…¥ users è¡¨
+2025-04-13 00:53:41,709 - database - INFO - æˆåŠŸä» ./CSV\logs.csv å¯¼å…¥ logs è¡¨
+2025-04-13 00:53:41,709 - database - INFO - æˆåŠŸä» ./CSV\name_list.csv å¯¼å…¥ name_list è¡¨
+2025-04-13 00:53:41,709 - database - INFO - æˆåŠŸä» ./CSV\log_monitoring.csv å¯¼å…¥ log_monitoring è¡¨
+2025-04-13 00:53:41,709 - database - INFO - æˆåŠŸä» ./CSV\model_management.csv å¯¼å…¥ model_management è¡¨
+2025-04-13 00:53:41,709 - database - INFO - æˆåŠŸä» ./CSV\rule_management.csv å¯¼å…¥ rule_management è¡¨
+2025-04-13 00:53:41,710 - database - INFO - æˆåŠŸä» ./CSV\credit_report.csv å¯¼å…¥ credit_report è¡¨
+2025-04-13 00:53:41,711 - database - INFO - CSVæ•°æ®åˆå§‹åŒ–å®Œæˆ
+2025-04-13 00:53:41,711 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 11:06:01,851 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 11:10:54,243 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 11:12:16,862 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 11:25:34,908 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 11:27:40,135 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 11:29:39,694 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 11:31:46,199 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 11:34:24,947 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 11:37:12,394 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 11:43:27,178 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 11:47:12,085 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 11:52:03,652 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 11:54:05,298 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 12:04:12,833 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 12:07:55,766 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 12:11:46,713 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 12:14:58,685 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 12:17:37,594 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 12:22:07,550 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 12:27:51,889 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 12:30:17,022 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 12:39:18,669 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 12:40:08,411 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 12:40:51,541 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 12:42:29,796 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 12:43:40,654 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 12:45:23,707 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 12:47:24,578 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 12:50:53,268 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 12:55:11,510 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 12:56:49,533 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 12:57:45,123 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 13:02:53,897 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 13:06:17,358 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 13:12:56,431 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 13:18:21,064 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 13:19:31,419 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 13:20:40,961 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 13:29:07,952 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 13:38:57,649 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 13:45:55,241 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 13:49:04,688 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 16:03:41,574 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-13 16:06:23,901 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-14 11:53:27,467 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-14 12:24:28,472 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-14 12:25:35,434 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-14 12:28:57,692 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-14 12:38:34,596 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-14 12:40:38,868 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-14 12:41:39,133 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-14 12:42:47,868 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-14 12:48:08,168 - database - INFO - æ•°æ®åº“åˆå§‹åŒ–å®Œæˆ
+2025-04-14 18:33:29,534 - database - INFO - Database initialization completed
+2025-04-14 18:40:51,308 - database - INFO - Database initialization completed
+2025-04-14 19:03:36,643 - database - INFO - Database initialization completed
+2025-04-14 19:04:01,815 - database - INFO - Database initialization completed
+2025-04-14 21:15:27,156 - database - INFO - Database initialization completed
+2025-04-14 21:45:34,499 - database - INFO - Database initialization completed
+2025-04-14 21:46:55,709 - risk_control - INFO - Add log ´û¿îÆÀ¹À - ÉêÇëÈË: test succeeded
+2025-04-14 21:47:34,504 - risk_control - INFO - Add log ´û¿îÆÀ¹À - ÉêÇëÈË: test succeeded
+2025-04-14 21:56:15,168 - database - INFO - Database initialization completed
+2025-04-14 22:04:43,372 - database - INFO - Database initialization completed
+2025-04-14 22:52:39,176 - database - INFO - Database initialization completed
+2025-04-14 22:53:12,628 - risk_control - INFO - Add log ´û¿îÆÀ¹À - ÉêÇëÈË: test succeeded
+2025-04-14 22:57:14,650 - database - INFO - Database initialization completed
+2025-04-14 22:57:59,618 - risk_control - INFO - Add log ´û¿îÆÀ¹À - ÉêÇëÈË: zhang succeeded
+2025-04-14 23:01:11,632 - database - INFO - Database initialization completed
+2025-04-14 23:02:15,643 - risk_control - INFO - Add log ´û¿îÆÀ¹À - ÉêÇëÈË: zhang succeeded
+2025-04-14 23:02:22,487 - risk_control - INFO - Add log ´û¿îÆÀ¹À - ÉêÇëÈË: zhang succeeded
+2025-04-14 23:02:22,933 - risk_control - INFO - Add log ´û¿îÆÀ¹À - ÉêÇëÈË: zhang succeeded
+2025-04-14 23:02:23,507 - risk_control - INFO - Add log ´û¿îÆÀ¹À - ÉêÇëÈË: zhang succeeded
+2025-04-14 23:02:48,392 - risk_control - INFO - Add log ´û¿îÆÀ¹À - ÉêÇëÈË: zz succeeded
+2025-04-14 23:08:40,260 - database - INFO - Database initialization completed
+2025-04-14 23:12:19,874 - database - INFO - Database initialization completed
+2025-04-14 23:12:53,930 - risk_control - INFO - Add log ´û¿îÆÀ¹À - ÉêÇëÈË: zz succeeded
+2025-04-14 23:23:06,272 - database - INFO - Database initialization completed
+2025-04-14 23:23:35,190 - risk_control - INFO - Add log Create rule succeeded
+2025-04-14 23:23:35,194 - risk_control - INFO - Add rule ĞÅÓÃ·ÖµÍÓÚ550 succeeded
+2025-04-14 23:23:35,197 - risk_control - INFO - Add log Create rule succeeded
+2025-04-14 23:23:35,201 - risk_control - INFO - Add rule ĞÅÓÃ·ÖµÍÓÚ600 succeeded
+2025-04-14 23:23:35,203 - risk_control - INFO - Add log Create rule succeeded
+2025-04-14 23:23:35,206 - risk_control - INFO - Add rule ĞÅÓÃ·ÖµÍÓÚ650 succeeded
+2025-04-14 23:23:35,208 - risk_control - INFO - Add log Create rule succeeded
+2025-04-14 23:23:35,210 - risk_control - INFO - Add rule ÓâÆÚ´ÎÊı³¬¹ı5´Î succeeded
+2025-04-14 23:23:35,212 - risk_control - INFO - Add log Create rule succeeded
+2025-04-14 23:23:35,214 - risk_control - INFO - Add rule ÓâÆÚ´ÎÊı³¬¹ı3´Î succeeded
+2025-04-14 23:23:35,215 - risk_control - INFO - Add log Create rule succeeded
+2025-04-14 23:23:35,217 - risk_control - INFO - Add rule ÓĞÓâÆÚ¼ÇÂ¼ succeeded
+2025-04-14 23:23:35,219 - risk_control - INFO - Add log Create rule succeeded
+2025-04-14 23:23:35,222 - risk_control - INFO - Add rule ×î³¤ÓâÆÚÌìÊı³¬¹ı90Ìì succeeded
+2025-04-14 23:23:35,223 - risk_control - INFO - Add log Create rule succeeded
+2025-04-14 23:23:35,225 - risk_control - INFO - Add rule ×î³¤ÓâÆÚÌìÊı³¬¹ı60Ìì succeeded
+2025-04-14 23:23:35,227 - risk_control - INFO - Add log Create rule succeeded
+2025-04-14 23:23:35,229 - risk_control - INFO - Add rule ×î³¤ÓâÆÚÌìÊı³¬¹ı30Ìì succeeded
+2025-04-14 23:23:35,230 - risk_control - INFO - Add log Create rule succeeded
+2025-04-14 23:23:35,232 - risk_control - INFO - Add rule ¸ºÕ®ÊÕÈë±È³¬¹ı0.6 succeeded
+2025-04-14 23:23:35,235 - risk_control - INFO - Add log Create rule succeeded
+2025-04-14 23:23:35,237 - risk_control - INFO - Add rule ¸ºÕ®ÊÕÈë±È³¬¹ı0.5 succeeded
+2025-04-14 23:23:35,239 - risk_control - INFO - Add log Create rule succeeded
+2025-04-14 23:23:35,240 - risk_control - INFO - Add rule ¸ºÕ®ÊÕÈë±È³¬¹ı0.4 succeeded
+2025-04-14 23:23:35,242 - risk_control - INFO - Add log Create rule succeeded
+2025-04-14 23:23:35,245 - risk_control - INFO - Add rule Í¬Ê±ÓĞ·¿´ûºÍ³µ´û succeeded
+2025-04-14 23:23:35,246 - risk_control - INFO - Add log Create rule succeeded
+2025-04-14 23:23:35,248 - risk_control - INFO - Add rule ´û¿î½ğ¶î³¬¹ı50Íò succeeded
+2025-04-14 23:23:35,253 - risk_control - INFO - Add log ´û¿îÆÀ¹À - ÉêÇëÈË: zz succeeded
+2025-04-14 23:23:35,255 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-14 23:23:35,256 - risk_control - INFO - Add name list entry 123 succeeded
+2025-04-14 23:23:35,259 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-14 23:23:35,260 - risk_control - INFO - Add name list entry 123 succeeded
+2025-04-14 23:23:35,262 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-14 23:23:35,263 - risk_control - INFO - Add name list entry 123 succeeded
+2025-04-14 23:23:35,266 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-14 23:23:35,267 - risk_control - INFO - Add name list entry 123 succeeded
+2025-04-14 23:23:35,269 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-14 23:23:35,272 - risk_control - INFO - Add name list entry 123 succeeded
+2025-04-14 23:24:08,971 - risk_control - INFO - Add log Create rule succeeded
+2025-04-14 23:24:08,973 - risk_control - INFO - Add rule ĞÅÓÃ·ÖµÍÓÚ550 succeeded
+2025-04-14 23:24:08,976 - risk_control - INFO - Add log Create rule succeeded
+2025-04-14 23:24:08,978 - risk_control - INFO - Add rule ĞÅÓÃ·ÖµÍÓÚ600 succeeded
+2025-04-14 23:24:08,981 - risk_control - INFO - Add log Create rule succeeded
+2025-04-14 23:24:08,983 - risk_control - INFO - Add rule ĞÅÓÃ·ÖµÍÓÚ650 succeeded
+2025-04-14 23:24:08,987 - risk_control - INFO - Add log Create rule succeeded
+2025-04-14 23:24:08,989 - risk_control - INFO - Add rule ÓâÆÚ´ÎÊı³¬¹ı5´Î succeeded
+2025-04-14 23:24:08,991 - risk_control - INFO - Add log Create rule succeeded
+2025-04-14 23:24:08,993 - risk_control - INFO - Add rule ÓâÆÚ´ÎÊı³¬¹ı3´Î succeeded
+2025-04-14 23:24:08,996 - risk_control - INFO - Add log Create rule succeeded
+2025-04-14 23:24:08,998 - risk_control - INFO - Add rule ÓĞÓâÆÚ¼ÇÂ¼ succeeded
+2025-04-14 23:24:08,999 - risk_control - INFO - Add log Create rule succeeded
+2025-04-14 23:24:09,001 - risk_control - INFO - Add rule ×î³¤ÓâÆÚÌìÊı³¬¹ı90Ìì succeeded
+2025-04-14 23:24:09,003 - risk_control - INFO - Add log Create rule succeeded
+2025-04-14 23:24:09,004 - risk_control - INFO - Add rule ×î³¤ÓâÆÚÌìÊı³¬¹ı60Ìì succeeded
+2025-04-14 23:24:09,006 - risk_control - INFO - Add log Create rule succeeded
+2025-04-14 23:24:09,008 - risk_control - INFO - Add rule ×î³¤ÓâÆÚÌìÊı³¬¹ı30Ìì succeeded
+2025-04-14 23:24:09,010 - risk_control - INFO - Add log Create rule succeeded
+2025-04-14 23:24:09,011 - risk_control - INFO - Add rule ¸ºÕ®ÊÕÈë±È³¬¹ı0.6 succeeded
+2025-04-14 23:24:09,012 - risk_control - INFO - Add log Create rule succeeded
+2025-04-14 23:24:09,015 - risk_control - INFO - Add rule ¸ºÕ®ÊÕÈë±È³¬¹ı0.5 succeeded
+2025-04-14 23:24:09,017 - risk_control - INFO - Add log Create rule succeeded
+2025-04-14 23:24:09,019 - risk_control - INFO - Add rule ¸ºÕ®ÊÕÈë±È³¬¹ı0.4 succeeded
+2025-04-14 23:24:09,021 - risk_control - INFO - Add log Create rule succeeded
+2025-04-14 23:24:09,023 - risk_control - INFO - Add rule Í¬Ê±ÓĞ·¿´ûºÍ³µ´û succeeded
+2025-04-14 23:24:09,024 - risk_control - INFO - Add log Create rule succeeded
+2025-04-14 23:24:09,026 - risk_control - INFO - Add rule ´û¿î½ğ¶î³¬¹ı50Íò succeeded
+2025-04-14 23:24:09,034 - risk_control - INFO - Add log ´û¿îÆÀ¹À - ÉêÇëÈË: ss succeeded
+2025-04-14 23:42:13,598 - database - INFO - Database initialization completed
+2025-04-15 00:00:57,417 - database - INFO - Database initialization completed
+2025-04-15 00:13:30,229 - database - INFO - Database initialization completed
+2025-04-15 00:19:07,944 - database - INFO - Database initialization completed
+2025-04-15 01:05:53,831 - database - INFO - Database initialization completed
+2025-04-15 01:09:14,323 - database - INFO - Database initialization completed
+2025-04-15 01:13:15,903 - database - INFO - Database initialization completed
+2025-04-15 01:20:19,160 - database - INFO - Database initialization completed
+2025-04-15 01:23:46,708 - database - INFO - Database initialization completed
+2025-04-15 01:30:42,215 - database - INFO - Database initialization completed
+2025-04-15 01:31:34,837 - database - INFO - Database initialization completed
+2025-04-15 01:31:52,882 - database - INFO - Database initialization completed
+2025-04-15 01:35:48,702 - database - INFO - Database initialization completed
+2025-04-15 01:48:00,706 - database - INFO - Database initialization completed
+2025-04-15 01:49:39,268 - database - INFO - Database initialization completed
+2025-04-15 01:54:26,749 - database - INFO - Database initialization completed
+2025-04-15 01:56:40,161 - database - INFO - Database initialization completed
+2025-04-15 02:01:17,370 - database - INFO - Database initialization completed
+2025-04-15 02:03:57,588 - database - INFO - Database initialization completed
+2025-04-15 02:06:53,428 - database - INFO - Database initialization completed
+2025-04-15 02:11:17,376 - database - INFO - Database initialization completed
+2025-04-15 02:17:37,406 - database - INFO - Database initialization completed
+2025-04-15 02:33:56,120 - database - INFO - Database initialization completed
+2025-04-15 02:37:25,600 - database - INFO - Database initialization completed
+2025-04-15 02:42:40,854 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 02:42:40,857 - risk_control - INFO - Add rule test succeeded
+2025-04-15 02:53:45,658 - database - INFO - Database initialization completed
+2025-04-15 02:55:41,539 - database - INFO - Database initialization completed
+2025-04-15 03:08:31,397 - risk_control - INFO - Add log Add model test A 1.0 succeeded
+2025-04-15 03:08:31,400 - model_management - INFO - Add model test A succeeded
+2025-04-15 03:15:01,014 - database - INFO - Database initialization completed
+2025-04-15 03:27:12,508 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:27:12,512 - risk_control - INFO - Add rule ĞÅÓÃ·ÖµÍÓÚ550 succeeded
+2025-04-15 03:27:12,516 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:27:12,518 - risk_control - INFO - Add rule ĞÅÓÃ·ÖµÍÓÚ600 succeeded
+2025-04-15 03:27:12,522 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:27:12,525 - risk_control - INFO - Add rule ĞÅÓÃ·ÖµÍÓÚ650 succeeded
+2025-04-15 03:27:12,527 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:27:12,530 - risk_control - INFO - Add rule ÓâÆÚ´ÎÊı³¬¹ı5´Î succeeded
+2025-04-15 03:27:12,533 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:27:12,535 - risk_control - INFO - Add rule ÓâÆÚ´ÎÊı³¬¹ı3´Î succeeded
+2025-04-15 03:27:12,537 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:27:12,539 - risk_control - INFO - Add rule ÓĞÓâÆÚ¼ÇÂ¼ succeeded
+2025-04-15 03:27:12,541 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:27:12,542 - risk_control - INFO - Add rule ×î³¤ÓâÆÚÌìÊı³¬¹ı90Ìì succeeded
+2025-04-15 03:27:12,544 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:27:12,546 - risk_control - INFO - Add rule ×î³¤ÓâÆÚÌìÊı³¬¹ı60Ìì succeeded
+2025-04-15 03:27:12,548 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:27:12,550 - risk_control - INFO - Add rule ×î³¤ÓâÆÚÌìÊı³¬¹ı30Ìì succeeded
+2025-04-15 03:27:12,552 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:27:12,554 - risk_control - INFO - Add rule ¸ºÕ®ÊÕÈë±È³¬¹ı0.6 succeeded
+2025-04-15 03:27:12,557 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:27:12,559 - risk_control - INFO - Add rule ¸ºÕ®ÊÕÈë±È³¬¹ı0.5 succeeded
+2025-04-15 03:27:12,560 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:27:12,562 - risk_control - INFO - Add rule ¸ºÕ®ÊÕÈë±È³¬¹ı0.4 succeeded
+2025-04-15 03:27:12,565 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:27:12,567 - risk_control - INFO - Add rule Í¬Ê±ÓĞ·¿´ûºÍ³µ´û succeeded
+2025-04-15 03:27:12,569 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:27:12,571 - risk_control - INFO - Add rule ´û¿î½ğ¶î³¬¹ı50Íò succeeded
+2025-04-15 03:27:12,599 - risk_control - INFO - Add log ´û¿îÆÀ¹À - ÉêÇëÈË: a succeeded
+2025-04-15 03:27:12,602 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:27:12,604 - risk_control - INFO - Add name list entry 330102199001018888 succeeded
+2025-04-15 03:27:12,606 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:27:12,608 - risk_control - INFO - Add name list entry 330102199001018888 succeeded
+2025-04-15 03:27:12,610 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:27:12,612 - risk_control - INFO - Add name list entry 330102199001018888 succeeded
+2025-04-15 03:27:12,614 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:27:12,617 - risk_control - INFO - Add name list entry 330102199001018888 succeeded
+2025-04-15 03:27:12,619 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:27:12,621 - risk_control - INFO - Add name list entry 330102199001018888 succeeded
+2025-04-15 03:27:12,623 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:27:12,625 - risk_control - INFO - Add name list entry 330102199001018888 succeeded
+2025-04-15 03:27:12,627 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:27:12,629 - risk_control - INFO - Add name list entry 330102199001018888 succeeded
+2025-04-15 03:27:12,631 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:27:12,633 - risk_control - INFO - Add name list entry 330102199001018888 succeeded
+2025-04-15 03:27:12,635 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:27:12,637 - risk_control - INFO - Add name list entry 330102199001018888 succeeded
+2025-04-15 03:27:12,639 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:27:12,641 - risk_control - INFO - Add name list entry 330102199001018888 succeeded
+2025-04-15 03:27:12,644 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:27:12,645 - risk_control - INFO - Add name list entry 330102199001018888 succeeded
+2025-04-15 03:27:12,647 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:27:12,649 - risk_control - INFO - Add name list entry 330102199001018888 succeeded
+2025-04-15 03:27:12,651 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:27:12,653 - risk_control - INFO - Add name list entry 330102199001018888 succeeded
+2025-04-15 03:27:12,655 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:27:12,657 - risk_control - INFO - Add name list entry 330102199001018888 succeeded
+2025-04-15 03:27:12,659 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:27:12,661 - risk_control - INFO - Add name list entry 330102199001018888 succeeded
+2025-04-15 03:27:12,663 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:27:12,665 - risk_control - INFO - Add name list entry 330102199001018888 succeeded
+2025-04-15 03:27:12,667 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:27:12,668 - risk_control - INFO - Add name list entry 330102199001018888 succeeded
+2025-04-15 03:27:12,670 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:27:12,672 - risk_control - INFO - Add name list entry 330102199001018888 succeeded
+2025-04-15 03:27:12,674 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:27:12,676 - risk_control - INFO - Add name list entry 330102199001018888 succeeded
+2025-04-15 03:27:12,678 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:27:12,680 - risk_control - INFO - Add name list entry 330102199001018888 succeeded
+2025-04-15 03:27:12,682 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:27:12,683 - risk_control - INFO - Add name list entry 330102199001018888 succeeded
+2025-04-15 03:27:12,686 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:27:12,688 - risk_control - INFO - Add name list entry 330102199001018888 succeeded
+2025-04-15 03:27:12,690 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:27:12,691 - risk_control - INFO - Add name list entry 330102199001018888 succeeded
+2025-04-15 03:27:12,693 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:27:12,695 - risk_control - INFO - Add name list entry 330102199001018888 succeeded
+2025-04-15 03:27:12,696 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:27:12,698 - risk_control - INFO - Add name list entry 330102199001018888 succeeded
+2025-04-15 03:27:12,700 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:27:12,701 - risk_control - INFO - Add name list entry 330102199001018888 succeeded
+2025-04-15 03:27:12,703 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:27:12,705 - risk_control - INFO - Add name list entry 330102199001018888 succeeded
+2025-04-15 03:27:12,706 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:27:12,708 - risk_control - INFO - Add name list entry 330102199001018888 succeeded
+2025-04-15 03:27:12,710 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:27:12,712 - risk_control - INFO - Add name list entry 330102199001018888 succeeded
+2025-04-15 03:27:12,713 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:27:12,715 - risk_control - INFO - Add name list entry 330102199001018888 succeeded
+2025-04-15 03:28:23,134 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:28:23,137 - risk_control - INFO - Add rule ĞÅÓÃ·ÖµÍÓÚ550 succeeded
+2025-04-15 03:28:23,139 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:28:23,143 - risk_control - INFO - Add rule ĞÅÓÃ·ÖµÍÓÚ600 succeeded
+2025-04-15 03:28:23,145 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:28:23,148 - risk_control - INFO - Add rule ĞÅÓÃ·ÖµÍÓÚ650 succeeded
+2025-04-15 03:28:23,150 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:28:23,152 - risk_control - INFO - Add rule ÓâÆÚ´ÎÊı³¬¹ı5´Î succeeded
+2025-04-15 03:28:23,154 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:28:23,156 - risk_control - INFO - Add rule ÓâÆÚ´ÎÊı³¬¹ı3´Î succeeded
+2025-04-15 03:28:23,157 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:28:23,159 - risk_control - INFO - Add rule ÓĞÓâÆÚ¼ÇÂ¼ succeeded
+2025-04-15 03:28:23,161 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:28:23,162 - risk_control - INFO - Add rule ×î³¤ÓâÆÚÌìÊı³¬¹ı90Ìì succeeded
+2025-04-15 03:28:23,164 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:28:23,165 - risk_control - INFO - Add rule ×î³¤ÓâÆÚÌìÊı³¬¹ı60Ìì succeeded
+2025-04-15 03:28:23,167 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:28:23,169 - risk_control - INFO - Add rule ×î³¤ÓâÆÚÌìÊı³¬¹ı30Ìì succeeded
+2025-04-15 03:28:23,171 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:28:23,173 - risk_control - INFO - Add rule ¸ºÕ®ÊÕÈë±È³¬¹ı0.6 succeeded
+2025-04-15 03:28:23,174 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:28:23,176 - risk_control - INFO - Add rule ¸ºÕ®ÊÕÈë±È³¬¹ı0.5 succeeded
+2025-04-15 03:28:23,178 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:28:23,180 - risk_control - INFO - Add rule ¸ºÕ®ÊÕÈë±È³¬¹ı0.4 succeeded
+2025-04-15 03:28:23,182 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:28:23,184 - risk_control - INFO - Add rule Í¬Ê±ÓĞ·¿´ûºÍ³µ´û succeeded
+2025-04-15 03:28:23,185 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:28:23,187 - risk_control - INFO - Add rule ´û¿î½ğ¶î³¬¹ı50Íò succeeded
+2025-04-15 03:28:23,214 - risk_control - INFO - Add log ´û¿îÆÀ¹À - ÉêÇëÈË: b succeeded
+2025-04-15 03:28:23,216 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:28:23,218 - risk_control - INFO - Add name list entry 320104198912245555 succeeded
+2025-04-15 03:28:23,221 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:28:23,222 - risk_control - INFO - Add name list entry 320104198912245555 succeeded
+2025-04-15 03:28:23,224 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:28:23,226 - risk_control - INFO - Add name list entry 320104198912245555 succeeded
+2025-04-15 03:28:23,228 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:28:23,230 - risk_control - INFO - Add name list entry 320104198912245555 succeeded
+2025-04-15 03:28:23,232 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:28:23,233 - risk_control - INFO - Add name list entry 320104198912245555 succeeded
+2025-04-15 03:28:23,235 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:28:23,238 - risk_control - INFO - Add name list entry 320104198912245555 succeeded
+2025-04-15 03:28:23,239 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:28:23,241 - risk_control - INFO - Add name list entry 320104198912245555 succeeded
+2025-04-15 03:28:23,243 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:28:23,245 - risk_control - INFO - Add name list entry 320104198912245555 succeeded
+2025-04-15 03:28:23,247 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:28:23,248 - risk_control - INFO - Add name list entry 320104198912245555 succeeded
+2025-04-15 03:28:23,251 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:28:23,253 - risk_control - INFO - Add name list entry 320104198912245555 succeeded
+2025-04-15 03:28:23,255 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:28:23,256 - risk_control - INFO - Add name list entry 320104198912245555 succeeded
+2025-04-15 03:28:23,258 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:28:23,260 - risk_control - INFO - Add name list entry 320104198912245555 succeeded
+2025-04-15 03:28:23,262 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:28:23,264 - risk_control - INFO - Add name list entry 320104198912245555 succeeded
+2025-04-15 03:28:23,265 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:28:23,268 - risk_control - INFO - Add name list entry 320104198912245555 succeeded
+2025-04-15 03:28:23,269 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:28:23,271 - risk_control - INFO - Add name list entry 320104198912245555 succeeded
+2025-04-15 03:28:23,273 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:28:23,274 - risk_control - INFO - Add name list entry 320104198912245555 succeeded
+2025-04-15 03:28:23,277 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:28:23,279 - risk_control - INFO - Add name list entry 320104198912245555 succeeded
+2025-04-15 03:28:23,280 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:28:23,281 - risk_control - INFO - Add name list entry 320104198912245555 succeeded
+2025-04-15 03:28:23,284 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:28:23,285 - risk_control - INFO - Add name list entry 320104198912245555 succeeded
+2025-04-15 03:28:23,288 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:28:23,290 - risk_control - INFO - Add name list entry 320104198912245555 succeeded
+2025-04-15 03:31:24,602 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:31:24,605 - risk_control - INFO - Add rule ĞÅÓÃ·ÖµÍÓÚ550 succeeded
+2025-04-15 03:31:24,608 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:31:24,611 - risk_control - INFO - Add rule ĞÅÓÃ·ÖµÍÓÚ600 succeeded
+2025-04-15 03:31:24,614 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:31:24,617 - risk_control - INFO - Add rule ĞÅÓÃ·ÖµÍÓÚ650 succeeded
+2025-04-15 03:31:24,620 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:31:24,622 - risk_control - INFO - Add rule ÓâÆÚ´ÎÊı³¬¹ı5´Î succeeded
+2025-04-15 03:31:24,625 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:31:24,627 - risk_control - INFO - Add rule ÓâÆÚ´ÎÊı³¬¹ı3´Î succeeded
+2025-04-15 03:31:24,628 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:31:24,630 - risk_control - INFO - Add rule ÓĞÓâÆÚ¼ÇÂ¼ succeeded
+2025-04-15 03:31:24,631 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:31:24,633 - risk_control - INFO - Add rule ×î³¤ÓâÆÚÌìÊı³¬¹ı90Ìì succeeded
+2025-04-15 03:31:24,635 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:31:24,637 - risk_control - INFO - Add rule ×î³¤ÓâÆÚÌìÊı³¬¹ı60Ìì succeeded
+2025-04-15 03:31:24,638 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:31:24,640 - risk_control - INFO - Add rule ×î³¤ÓâÆÚÌìÊı³¬¹ı30Ìì succeeded
+2025-04-15 03:31:24,642 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:31:24,644 - risk_control - INFO - Add rule ¸ºÕ®ÊÕÈë±È³¬¹ı0.6 succeeded
+2025-04-15 03:31:24,646 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:31:24,647 - risk_control - INFO - Add rule ¸ºÕ®ÊÕÈë±È³¬¹ı0.5 succeeded
+2025-04-15 03:31:24,649 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:31:24,651 - risk_control - INFO - Add rule ¸ºÕ®ÊÕÈë±È³¬¹ı0.4 succeeded
+2025-04-15 03:31:24,653 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:31:24,654 - risk_control - INFO - Add rule Í¬Ê±ÓĞ·¿´ûºÍ³µ´û succeeded
+2025-04-15 03:31:24,656 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:31:24,658 - risk_control - INFO - Add rule ´û¿î½ğ¶î³¬¹ı50Íò succeeded
+2025-04-15 03:31:24,683 - risk_control - INFO - Add log ´û¿îÆÀ¹À - ÉêÇëÈË: c succeeded
+2025-04-15 03:31:24,685 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:31:24,687 - risk_control - INFO - Add name list entry 12 succeeded
+2025-04-15 03:31:24,689 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:31:24,690 - risk_control - INFO - Add name list entry 12 succeeded
+2025-04-15 03:31:24,692 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:31:24,694 - risk_control - INFO - Add name list entry 12 succeeded
+2025-04-15 03:31:24,696 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:31:24,697 - risk_control - INFO - Add name list entry 12 succeeded
+2025-04-15 03:31:24,700 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:31:24,701 - risk_control - INFO - Add name list entry 12 succeeded
+2025-04-15 03:31:48,276 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:31:48,279 - risk_control - INFO - Add rule ĞÅÓÃ·ÖµÍÓÚ550 succeeded
+2025-04-15 03:31:48,281 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:31:48,284 - risk_control - INFO - Add rule ĞÅÓÃ·ÖµÍÓÚ600 succeeded
+2025-04-15 03:31:48,287 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:31:48,289 - risk_control - INFO - Add rule ĞÅÓÃ·ÖµÍÓÚ650 succeeded
+2025-04-15 03:31:48,290 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:31:48,293 - risk_control - INFO - Add rule ÓâÆÚ´ÎÊı³¬¹ı5´Î succeeded
+2025-04-15 03:31:48,294 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:31:48,296 - risk_control - INFO - Add rule ÓâÆÚ´ÎÊı³¬¹ı3´Î succeeded
+2025-04-15 03:31:48,298 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:31:48,300 - risk_control - INFO - Add rule ÓĞÓâÆÚ¼ÇÂ¼ succeeded
+2025-04-15 03:31:48,302 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:31:48,303 - risk_control - INFO - Add rule ×î³¤ÓâÆÚÌìÊı³¬¹ı90Ìì succeeded
+2025-04-15 03:31:48,304 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:31:48,307 - risk_control - INFO - Add rule ×î³¤ÓâÆÚÌìÊı³¬¹ı60Ìì succeeded
+2025-04-15 03:31:48,308 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:31:48,310 - risk_control - INFO - Add rule ×î³¤ÓâÆÚÌìÊı³¬¹ı30Ìì succeeded
+2025-04-15 03:31:48,312 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:31:48,314 - risk_control - INFO - Add rule ¸ºÕ®ÊÕÈë±È³¬¹ı0.6 succeeded
+2025-04-15 03:31:48,316 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:31:48,317 - risk_control - INFO - Add rule ¸ºÕ®ÊÕÈë±È³¬¹ı0.5 succeeded
+2025-04-15 03:31:48,319 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:31:48,321 - risk_control - INFO - Add rule ¸ºÕ®ÊÕÈë±È³¬¹ı0.4 succeeded
+2025-04-15 03:31:48,322 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:31:48,324 - risk_control - INFO - Add rule Í¬Ê±ÓĞ·¿´ûºÍ³µ´û succeeded
+2025-04-15 03:31:48,326 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:31:48,328 - risk_control - INFO - Add rule ´û¿î½ğ¶î³¬¹ı50Íò succeeded
+2025-04-15 03:31:48,357 - risk_control - INFO - Add log ´û¿îÆÀ¹À - ÉêÇëÈË: c succeeded
+2025-04-15 03:35:06,145 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:35:06,147 - risk_control - INFO - Add rule ĞÅÓÃ·ÖµÍÓÚ550 succeeded
+2025-04-15 03:35:06,148 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:35:06,150 - risk_control - INFO - Add rule ĞÅÓÃ·ÖµÍÓÚ600 succeeded
+2025-04-15 03:35:06,152 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:35:06,155 - risk_control - INFO - Add rule ĞÅÓÃ·ÖµÍÓÚ650 succeeded
+2025-04-15 03:35:06,157 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:35:06,158 - risk_control - INFO - Add rule ÓâÆÚ´ÎÊı³¬¹ı5´Î succeeded
+2025-04-15 03:35:06,160 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:35:06,162 - risk_control - INFO - Add rule ÓâÆÚ´ÎÊı³¬¹ı3´Î succeeded
+2025-04-15 03:35:06,164 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:35:06,166 - risk_control - INFO - Add rule ÓĞÓâÆÚ¼ÇÂ¼ succeeded
+2025-04-15 03:35:06,169 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:35:06,170 - risk_control - INFO - Add rule ×î³¤ÓâÆÚÌìÊı³¬¹ı90Ìì succeeded
+2025-04-15 03:35:06,172 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:35:06,174 - risk_control - INFO - Add rule ×î³¤ÓâÆÚÌìÊı³¬¹ı60Ìì succeeded
+2025-04-15 03:35:06,176 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:35:06,178 - risk_control - INFO - Add rule ×î³¤ÓâÆÚÌìÊı³¬¹ı30Ìì succeeded
+2025-04-15 03:35:06,181 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:35:06,182 - risk_control - INFO - Add rule ¸ºÕ®ÊÕÈë±È³¬¹ı0.6 succeeded
+2025-04-15 03:35:06,186 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:35:06,187 - risk_control - INFO - Add rule ¸ºÕ®ÊÕÈë±È³¬¹ı0.5 succeeded
+2025-04-15 03:35:06,189 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:35:06,191 - risk_control - INFO - Add rule ¸ºÕ®ÊÕÈë±È³¬¹ı0.4 succeeded
+2025-04-15 03:35:06,194 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:35:06,195 - risk_control - INFO - Add rule Í¬Ê±ÓĞ·¿´ûºÍ³µ´û succeeded
+2025-04-15 03:35:06,197 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:35:06,199 - risk_control - INFO - Add rule ´û¿î½ğ¶î³¬¹ı50Íò succeeded
+2025-04-15 03:35:06,242 - risk_control - INFO - Add log ´û¿îÆÀ¹À - ÉêÇëÈË: a succeeded
+2025-04-15 03:35:06,245 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,246 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,248 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,250 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,252 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,254 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,256 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,258 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,260 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,262 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,264 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,266 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,268 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,269 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,271 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,273 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,274 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,276 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,278 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,281 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,283 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,285 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,287 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,289 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,291 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,294 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,296 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,298 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,300 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,302 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,305 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,308 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,309 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,311 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,314 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,317 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,319 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,321 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,322 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,325 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,328 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,330 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,332 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,334 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,336 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,338 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,340 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,341 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,343 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,345 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,347 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,349 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,351 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,354 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,356 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,358 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,360 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,362 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,366 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,368 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,370 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,373 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,375 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,377 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,379 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,381 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,383 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,384 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,387 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,389 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,391 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,394 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,396 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,397 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,399 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,401 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,403 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,405 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,407 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,410 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,411 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,414 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,416 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,418 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,420 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,422 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,424 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,426 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,428 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,430 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,431 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,432 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,434 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,435 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,437 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,440 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,441 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,443 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,444 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,447 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,449 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,452 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,453 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,456 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,458 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,460 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,463 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,465 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,468 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,469 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,471 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,472 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,475 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,477 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,479 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,480 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,482 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,484 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,486 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,488 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,490 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,492 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,494 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,496 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,498 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,499 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,501 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,502 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,504 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,506 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,508 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,510 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,512 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,514 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,516 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,518 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,519 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,521 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:06,523 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 03:35:06,524 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 03:35:17,937 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:35:17,938 - risk_control - INFO - Add rule ĞÅÓÃ·ÖµÍÓÚ550 succeeded
+2025-04-15 03:35:17,940 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:35:17,942 - risk_control - INFO - Add rule ĞÅÓÃ·ÖµÍÓÚ600 succeeded
+2025-04-15 03:35:17,943 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:35:17,944 - risk_control - INFO - Add rule ĞÅÓÃ·ÖµÍÓÚ650 succeeded
+2025-04-15 03:35:17,946 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:35:17,947 - risk_control - INFO - Add rule ÓâÆÚ´ÎÊı³¬¹ı5´Î succeeded
+2025-04-15 03:35:17,950 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:35:17,951 - risk_control - INFO - Add rule ÓâÆÚ´ÎÊı³¬¹ı3´Î succeeded
+2025-04-15 03:35:17,953 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:35:17,955 - risk_control - INFO - Add rule ÓĞÓâÆÚ¼ÇÂ¼ succeeded
+2025-04-15 03:35:17,957 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:35:17,960 - risk_control - INFO - Add rule ×î³¤ÓâÆÚÌìÊı³¬¹ı90Ìì succeeded
+2025-04-15 03:35:17,962 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:35:17,964 - risk_control - INFO - Add rule ×î³¤ÓâÆÚÌìÊı³¬¹ı60Ìì succeeded
+2025-04-15 03:35:17,966 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:35:17,968 - risk_control - INFO - Add rule ×î³¤ÓâÆÚÌìÊı³¬¹ı30Ìì succeeded
+2025-04-15 03:35:17,970 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:35:17,972 - risk_control - INFO - Add rule ¸ºÕ®ÊÕÈë±È³¬¹ı0.6 succeeded
+2025-04-15 03:35:17,974 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:35:17,976 - risk_control - INFO - Add rule ¸ºÕ®ÊÕÈë±È³¬¹ı0.5 succeeded
+2025-04-15 03:35:17,978 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:35:17,980 - risk_control - INFO - Add rule ¸ºÕ®ÊÕÈë±È³¬¹ı0.4 succeeded
+2025-04-15 03:35:17,982 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:35:17,983 - risk_control - INFO - Add rule Í¬Ê±ÓĞ·¿´ûºÍ³µ´û succeeded
+2025-04-15 03:35:17,986 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:35:17,987 - risk_control - INFO - Add rule ´û¿î½ğ¶î³¬¹ı50Íò succeeded
+2025-04-15 03:35:18,030 - risk_control - INFO - Add log ´û¿îÆÀ¹À - ÉêÇëÈË: b succeeded
+2025-04-15 03:40:31,694 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:40:31,696 - risk_control - INFO - Add rule  succeeded
+2025-04-15 03:40:44,219 - database - INFO - Database initialization completed
+2025-04-15 03:41:53,104 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 03:41:53,107 - risk_control - INFO - Add rule  succeeded
+2025-04-15 03:46:01,948 - database - INFO - Database initialization completed
+2025-04-15 11:27:29,698 - database - INFO - Database initialization completed
+2025-04-15 11:28:23,973 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 11:28:23,975 - risk_control - INFO - Add rule ĞÅÓÃ·ÖµÍÓÚ550 succeeded
+2025-04-15 11:28:23,979 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 11:28:23,981 - risk_control - INFO - Add rule ĞÅÓÃ·ÖµÍÓÚ600 succeeded
+2025-04-15 11:28:23,984 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 11:28:23,986 - risk_control - INFO - Add rule ĞÅÓÃ·ÖµÍÓÚ650 succeeded
+2025-04-15 11:28:23,989 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 11:28:23,991 - risk_control - INFO - Add rule ÓâÆÚ´ÎÊı³¬¹ı5´Î succeeded
+2025-04-15 11:28:23,993 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 11:28:23,995 - risk_control - INFO - Add rule ÓâÆÚ´ÎÊı³¬¹ı3´Î succeeded
+2025-04-15 11:28:23,997 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 11:28:24,000 - risk_control - INFO - Add rule ÓĞÓâÆÚ¼ÇÂ¼ succeeded
+2025-04-15 11:28:24,002 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 11:28:24,003 - risk_control - INFO - Add rule ×î³¤ÓâÆÚÌìÊı³¬¹ı90Ìì succeeded
+2025-04-15 11:28:24,006 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 11:28:24,008 - risk_control - INFO - Add rule ×î³¤ÓâÆÚÌìÊı³¬¹ı60Ìì succeeded
+2025-04-15 11:28:24,010 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 11:28:24,011 - risk_control - INFO - Add rule ×î³¤ÓâÆÚÌìÊı³¬¹ı30Ìì succeeded
+2025-04-15 11:28:24,014 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 11:28:24,016 - risk_control - INFO - Add rule ¸ºÕ®ÊÕÈë±È³¬¹ı0.6 succeeded
+2025-04-15 11:28:24,017 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 11:28:24,019 - risk_control - INFO - Add rule ¸ºÕ®ÊÕÈë±È³¬¹ı0.5 succeeded
+2025-04-15 11:28:24,021 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 11:28:24,022 - risk_control - INFO - Add rule ¸ºÕ®ÊÕÈë±È³¬¹ı0.4 succeeded
+2025-04-15 11:28:24,025 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 11:28:24,027 - risk_control - INFO - Add rule Í¬Ê±ÓĞ·¿´ûºÍ³µ´û succeeded
+2025-04-15 11:28:24,029 - risk_control - INFO - Add log Create rule succeeded
+2025-04-15 11:28:24,031 - risk_control - INFO - Add rule ´û¿î½ğ¶î³¬¹ı50Íò succeeded
+2025-04-15 11:28:24,055 - risk_control - INFO - Add log ´û¿îÆÀ¹À - ÉêÇëÈË: hzb succeeded
+2025-04-15 11:28:24,057 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 11:28:24,060 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 11:28:24,062 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 11:28:24,064 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 11:28:24,066 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 11:28:24,068 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 11:28:24,070 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 11:28:24,072 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 11:28:24,074 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 11:28:24,076 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 11:28:24,079 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 11:28:24,080 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 11:28:24,082 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 11:28:24,084 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 11:28:24,086 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 11:28:24,087 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 11:28:24,089 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 11:28:24,091 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 11:28:24,093 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 11:28:24,095 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 11:28:24,097 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 11:28:24,099 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 11:28:24,100 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 11:28:24,102 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 11:28:24,103 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 11:28:24,105 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 11:28:24,107 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 11:28:24,109 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 11:28:24,111 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 11:28:24,113 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 11:28:24,115 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 11:28:24,117 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 11:28:24,119 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 11:28:24,120 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 11:28:24,122 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 11:28:24,124 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 11:28:24,126 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 11:28:24,128 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 11:28:24,130 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 11:28:24,132 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 11:28:24,133 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 11:28:24,135 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 11:28:24,137 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 11:28:24,140 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 11:28:24,142 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 11:28:24,144 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 11:28:24,146 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 11:28:24,148 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 11:28:24,149 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 11:28:24,151 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 11:28:24,153 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 11:28:24,156 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 11:28:24,158 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 11:28:24,160 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 11:28:24,162 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 11:28:24,164 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 11:28:24,166 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 11:28:24,168 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 11:28:24,171 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 11:28:24,173 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 11:28:24,174 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 11:28:24,176 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 11:28:24,179 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 11:28:24,181 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 11:28:24,183 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 11:28:24,185 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 11:28:24,187 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 11:28:24,190 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 11:28:24,191 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 11:28:24,193 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 11:28:24,195 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-15 11:28:24,198 - risk_control - INFO - Add name list entry 11 succeeded
+2025-04-15 11:55:43,735 - risk_control - INFO - Add log Rollback model ID: 1 succeeded
+2025-04-15 11:55:43,738 - model_management - INFO - Set model rollback (ID: 1) succeeded
+2025-04-15 14:23:02,456 - database - INFO - Database initialization completed
+2025-04-16 02:47:21,978 - database - INFO - Database initialization completed
+2025-04-16 03:33:30,623 - database - INFO - Database initialization completed
+2025-04-24 16:39:58,154 - database - INFO - Database initialization completed
+2025-04-24 17:30:57,684 - database - INFO - Database initialization completed
+2025-04-24 17:55:53,354 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:55:53,356 - risk_control - INFO - Add rule ĞÅÓÃ·ÖµÍÓÚ550 succeeded
+2025-04-24 17:55:53,359 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:55:53,361 - risk_control - INFO - Add rule ĞÅÓÃ·ÖµÍÓÚ600 succeeded
+2025-04-24 17:55:53,363 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:55:53,365 - risk_control - INFO - Add rule ĞÅÓÃ·ÖµÍÓÚ650 succeeded
+2025-04-24 17:55:53,367 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:55:53,368 - risk_control - INFO - Add rule ÓâÆÚ´ÎÊı³¬¹ı5´Î succeeded
+2025-04-24 17:55:53,370 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:55:53,372 - risk_control - INFO - Add rule ÓâÆÚ´ÎÊı³¬¹ı3´Î succeeded
+2025-04-24 17:55:53,373 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:55:53,375 - risk_control - INFO - Add rule ÓĞÓâÆÚ¼ÇÂ¼ succeeded
+2025-04-24 17:55:53,377 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:55:53,379 - risk_control - INFO - Add rule ×î³¤ÓâÆÚÌìÊı³¬¹ı90Ìì succeeded
+2025-04-24 17:55:53,380 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:55:53,382 - risk_control - INFO - Add rule ×î³¤ÓâÆÚÌìÊı³¬¹ı60Ìì succeeded
+2025-04-24 17:55:53,384 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:55:53,386 - risk_control - INFO - Add rule ×î³¤ÓâÆÚÌìÊı³¬¹ı30Ìì succeeded
+2025-04-24 17:55:53,388 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:55:53,389 - risk_control - INFO - Add rule ¸ºÕ®ÊÕÈë±È³¬¹ı0.6 succeeded
+2025-04-24 17:55:53,390 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:55:53,392 - risk_control - INFO - Add rule ¸ºÕ®ÊÕÈë±È³¬¹ı0.5 succeeded
+2025-04-24 17:55:53,394 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:55:53,395 - risk_control - INFO - Add rule ¸ºÕ®ÊÕÈë±È³¬¹ı0.4 succeeded
+2025-04-24 17:55:53,397 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:55:53,399 - risk_control - INFO - Add rule Í¬Ê±ÓĞ·¿´ûºÍ³µ´û succeeded
+2025-04-24 17:55:53,401 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:55:53,403 - risk_control - INFO - Add rule ´û¿î½ğ¶î³¬¹ı50Íò succeeded
+2025-04-24 17:55:53,423 - risk_control - INFO - Add log ´û¿îÆÀ¹À - ÉêÇëÈË: testA succeeded
+2025-04-24 17:56:52,304 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:56:52,307 - risk_control - INFO - Add rule ĞÅÓÃ·ÖµÍÓÚ550 succeeded
+2025-04-24 17:56:52,310 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:56:52,313 - risk_control - INFO - Add rule ĞÅÓÃ·ÖµÍÓÚ600 succeeded
+2025-04-24 17:56:52,316 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:56:52,318 - risk_control - INFO - Add rule ĞÅÓÃ·ÖµÍÓÚ650 succeeded
+2025-04-24 17:56:52,321 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:56:52,324 - risk_control - INFO - Add rule ÓâÆÚ´ÎÊı³¬¹ı5´Î succeeded
+2025-04-24 17:56:52,326 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:56:52,328 - risk_control - INFO - Add rule ÓâÆÚ´ÎÊı³¬¹ı3´Î succeeded
+2025-04-24 17:56:52,330 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:56:52,332 - risk_control - INFO - Add rule ÓĞÓâÆÚ¼ÇÂ¼ succeeded
+2025-04-24 17:56:52,333 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:56:52,335 - risk_control - INFO - Add rule ×î³¤ÓâÆÚÌìÊı³¬¹ı90Ìì succeeded
+2025-04-24 17:56:52,337 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:56:52,339 - risk_control - INFO - Add rule ×î³¤ÓâÆÚÌìÊı³¬¹ı60Ìì succeeded
+2025-04-24 17:56:52,341 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:56:52,343 - risk_control - INFO - Add rule ×î³¤ÓâÆÚÌìÊı³¬¹ı30Ìì succeeded
+2025-04-24 17:56:52,345 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:56:52,347 - risk_control - INFO - Add rule ¸ºÕ®ÊÕÈë±È³¬¹ı0.6 succeeded
+2025-04-24 17:56:52,348 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:56:52,350 - risk_control - INFO - Add rule ¸ºÕ®ÊÕÈë±È³¬¹ı0.5 succeeded
+2025-04-24 17:56:52,352 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:56:52,353 - risk_control - INFO - Add rule ¸ºÕ®ÊÕÈë±È³¬¹ı0.4 succeeded
+2025-04-24 17:56:52,355 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:56:52,357 - risk_control - INFO - Add rule Í¬Ê±ÓĞ·¿´ûºÍ³µ´û succeeded
+2025-04-24 17:56:52,359 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:56:52,360 - risk_control - INFO - Add rule ´û¿î½ğ¶î³¬¹ı50Íò succeeded
+2025-04-24 17:56:52,387 - risk_control - INFO - Add log ´û¿îÆÀ¹À - ÉêÇëÈË: testB succeeded
+2025-04-24 17:56:52,388 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,390 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,392 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,394 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,396 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,398 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,400 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,401 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,403 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,405 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,407 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,409 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,410 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,412 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,414 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,415 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,417 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,419 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,420 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,422 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,423 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,425 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,427 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,428 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,430 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,431 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,433 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,435 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,436 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,438 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,440 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,442 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,443 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,445 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,446 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,448 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,450 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,451 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,453 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,454 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,456 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,458 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,459 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,460 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,462 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,463 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,465 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,467 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,468 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,470 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,471 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,473 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,474 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,476 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,478 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,480 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,481 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,483 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,484 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,486 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,487 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,489 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,491 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,492 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,494 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,495 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,497 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,498 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,501 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,502 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,504 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,505 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,507 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,509 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,510 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,512 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,514 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,515 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,517 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,518 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,520 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,522 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,523 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,525 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,527 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,528 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,530 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,532 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,533 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,535 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,536 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,538 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,540 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,541 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,543 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,545 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,546 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,548 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,550 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,552 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,554 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,555 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,557 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,559 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,560 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,561 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,563 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,565 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,566 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,568 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,569 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,571 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,574 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,575 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,577 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,578 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,580 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,581 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,583 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,584 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,586 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,588 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,589 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,591 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,592 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,594 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,596 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,598 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,599 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,601 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:56:52,603 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:56:52,605 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:32,026 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:57:32,029 - risk_control - INFO - Add rule ĞÅÓÃ·ÖµÍÓÚ550 succeeded
+2025-04-24 17:57:32,031 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:57:32,035 - risk_control - INFO - Add rule ĞÅÓÃ·ÖµÍÓÚ600 succeeded
+2025-04-24 17:57:32,038 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:57:32,041 - risk_control - INFO - Add rule ĞÅÓÃ·ÖµÍÓÚ650 succeeded
+2025-04-24 17:57:32,043 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:57:32,045 - risk_control - INFO - Add rule ÓâÆÚ´ÎÊı³¬¹ı5´Î succeeded
+2025-04-24 17:57:32,047 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:57:32,049 - risk_control - INFO - Add rule ÓâÆÚ´ÎÊı³¬¹ı3´Î succeeded
+2025-04-24 17:57:32,051 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:57:32,052 - risk_control - INFO - Add rule ÓĞÓâÆÚ¼ÇÂ¼ succeeded
+2025-04-24 17:57:32,054 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:57:32,056 - risk_control - INFO - Add rule ×î³¤ÓâÆÚÌìÊı³¬¹ı90Ìì succeeded
+2025-04-24 17:57:32,057 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:57:32,059 - risk_control - INFO - Add rule ×î³¤ÓâÆÚÌìÊı³¬¹ı60Ìì succeeded
+2025-04-24 17:57:32,060 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:57:32,062 - risk_control - INFO - Add rule ×î³¤ÓâÆÚÌìÊı³¬¹ı30Ìì succeeded
+2025-04-24 17:57:32,064 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:57:32,066 - risk_control - INFO - Add rule ¸ºÕ®ÊÕÈë±È³¬¹ı0.6 succeeded
+2025-04-24 17:57:32,067 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:57:32,069 - risk_control - INFO - Add rule ¸ºÕ®ÊÕÈë±È³¬¹ı0.5 succeeded
+2025-04-24 17:57:32,071 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:57:32,073 - risk_control - INFO - Add rule ¸ºÕ®ÊÕÈë±È³¬¹ı0.4 succeeded
+2025-04-24 17:57:32,074 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:57:32,076 - risk_control - INFO - Add rule Í¬Ê±ÓĞ·¿´ûºÍ³µ´û succeeded
+2025-04-24 17:57:32,078 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:57:32,080 - risk_control - INFO - Add rule ´û¿î½ğ¶î³¬¹ı50Íò succeeded
+2025-04-24 17:57:32,108 - risk_control - INFO - Add log ´û¿îÆÀ¹À - ÉêÇëÈË: testB succeeded
+2025-04-24 17:57:32,110 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:32,112 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:32,114 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:32,116 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:32,117 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:32,119 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:32,121 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:32,123 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:32,125 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:32,127 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:32,128 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:32,130 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:32,132 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:32,134 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:32,135 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:32,137 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:32,139 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:32,140 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:32,142 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:32,144 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:32,145 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:32,147 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:32,149 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:32,150 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:32,152 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:32,154 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:32,155 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:32,157 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:32,158 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:32,160 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:32,161 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:32,163 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:32,165 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:32,167 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:32,168 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:32,170 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:32,171 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:32,173 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:32,175 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:32,177 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:32,178 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:32,180 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:32,181 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:32,183 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:32,185 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:32,187 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:32,188 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:32,190 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:32,191 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:32,193 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:32,195 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:32,196 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:32,198 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:32,200 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:32,201 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:32,203 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:32,204 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:32,206 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:32,208 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:32,209 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:32,211 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:32,212 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:32,214 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:32,216 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:32,217 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:32,219 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:32,220 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:32,222 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:32,224 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:32,225 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:32,227 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:32,229 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:54,669 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:57:54,672 - risk_control - INFO - Add rule ĞÅÓÃ·ÖµÍÓÚ550 succeeded
+2025-04-24 17:57:54,674 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:57:54,677 - risk_control - INFO - Add rule ĞÅÓÃ·ÖµÍÓÚ600 succeeded
+2025-04-24 17:57:54,680 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:57:54,683 - risk_control - INFO - Add rule ĞÅÓÃ·ÖµÍÓÚ650 succeeded
+2025-04-24 17:57:54,685 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:57:54,689 - risk_control - INFO - Add rule ÓâÆÚ´ÎÊı³¬¹ı5´Î succeeded
+2025-04-24 17:57:54,691 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:57:54,694 - risk_control - INFO - Add rule ÓâÆÚ´ÎÊı³¬¹ı3´Î succeeded
+2025-04-24 17:57:54,696 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:57:54,698 - risk_control - INFO - Add rule ÓĞÓâÆÚ¼ÇÂ¼ succeeded
+2025-04-24 17:57:54,699 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:57:54,701 - risk_control - INFO - Add rule ×î³¤ÓâÆÚÌìÊı³¬¹ı90Ìì succeeded
+2025-04-24 17:57:54,703 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:57:54,705 - risk_control - INFO - Add rule ×î³¤ÓâÆÚÌìÊı³¬¹ı60Ìì succeeded
+2025-04-24 17:57:54,706 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:57:54,708 - risk_control - INFO - Add rule ×î³¤ÓâÆÚÌìÊı³¬¹ı30Ìì succeeded
+2025-04-24 17:57:54,709 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:57:54,711 - risk_control - INFO - Add rule ¸ºÕ®ÊÕÈë±È³¬¹ı0.6 succeeded
+2025-04-24 17:57:54,713 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:57:54,714 - risk_control - INFO - Add rule ¸ºÕ®ÊÕÈë±È³¬¹ı0.5 succeeded
+2025-04-24 17:57:54,716 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:57:54,717 - risk_control - INFO - Add rule ¸ºÕ®ÊÕÈë±È³¬¹ı0.4 succeeded
+2025-04-24 17:57:54,719 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:57:54,720 - risk_control - INFO - Add rule Í¬Ê±ÓĞ·¿´ûºÍ³µ´û succeeded
+2025-04-24 17:57:54,721 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:57:54,723 - risk_control - INFO - Add rule ´û¿î½ğ¶î³¬¹ı50Íò succeeded
+2025-04-24 17:57:54,750 - risk_control - INFO - Add log ´û¿îÆÀ¹À - ÉêÇëÈË: testB succeeded
+2025-04-24 17:57:54,751 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:54,753 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:54,755 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:54,757 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:54,759 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:54,760 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:54,762 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:54,764 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:54,765 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:54,767 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:54,768 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:54,770 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:54,772 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:54,773 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:54,775 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:54,776 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:54,778 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:54,780 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:54,781 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:54,782 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:54,783 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:54,785 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:54,787 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:54,789 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:57:54,791 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:57:54,792 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:58:03,040 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:58:03,042 - risk_control - INFO - Add rule ĞÅÓÃ·ÖµÍÓÚ550 succeeded
+2025-04-24 17:58:03,044 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:58:03,047 - risk_control - INFO - Add rule ĞÅÓÃ·ÖµÍÓÚ600 succeeded
+2025-04-24 17:58:03,049 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:58:03,051 - risk_control - INFO - Add rule ĞÅÓÃ·ÖµÍÓÚ650 succeeded
+2025-04-24 17:58:03,053 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:58:03,055 - risk_control - INFO - Add rule ÓâÆÚ´ÎÊı³¬¹ı5´Î succeeded
+2025-04-24 17:58:03,056 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:58:03,058 - risk_control - INFO - Add rule ÓâÆÚ´ÎÊı³¬¹ı3´Î succeeded
+2025-04-24 17:58:03,060 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:58:03,062 - risk_control - INFO - Add rule ÓĞÓâÆÚ¼ÇÂ¼ succeeded
+2025-04-24 17:58:03,063 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:58:03,065 - risk_control - INFO - Add rule ×î³¤ÓâÆÚÌìÊı³¬¹ı90Ìì succeeded
+2025-04-24 17:58:03,067 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:58:03,069 - risk_control - INFO - Add rule ×î³¤ÓâÆÚÌìÊı³¬¹ı60Ìì succeeded
+2025-04-24 17:58:03,070 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:58:03,072 - risk_control - INFO - Add rule ×î³¤ÓâÆÚÌìÊı³¬¹ı30Ìì succeeded
+2025-04-24 17:58:03,074 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:58:03,076 - risk_control - INFO - Add rule ¸ºÕ®ÊÕÈë±È³¬¹ı0.6 succeeded
+2025-04-24 17:58:03,077 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:58:03,079 - risk_control - INFO - Add rule ¸ºÕ®ÊÕÈë±È³¬¹ı0.5 succeeded
+2025-04-24 17:58:03,081 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:58:03,082 - risk_control - INFO - Add rule ¸ºÕ®ÊÕÈë±È³¬¹ı0.4 succeeded
+2025-04-24 17:58:03,084 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:58:03,085 - risk_control - INFO - Add rule Í¬Ê±ÓĞ·¿´ûºÍ³µ´û succeeded
+2025-04-24 17:58:03,087 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:58:03,089 - risk_control - INFO - Add rule ´û¿î½ğ¶î³¬¹ı50Íò succeeded
+2025-04-24 17:58:03,119 - risk_control - INFO - Add log ´û¿îÆÀ¹À - ÉêÇëÈË: testB succeeded
+2025-04-24 17:58:03,120 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:58:03,122 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:58:03,123 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:58:03,125 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:58:03,127 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:58:03,128 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:58:03,130 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:58:03,132 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:58:03,134 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:58:03,135 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:58:03,137 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:58:03,139 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:58:03,140 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:58:03,142 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:58:03,144 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:58:03,146 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:58:03,147 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:58:03,149 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:58:03,151 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:58:03,152 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:58:03,154 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:58:03,156 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:58:03,157 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:58:03,159 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:58:03,161 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:58:03,163 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:58:03,164 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:58:03,166 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:58:12,501 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:58:12,504 - risk_control - INFO - Add rule ĞÅÓÃ·ÖµÍÓÚ550 succeeded
+2025-04-24 17:58:12,507 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:58:12,510 - risk_control - INFO - Add rule ĞÅÓÃ·ÖµÍÓÚ600 succeeded
+2025-04-24 17:58:12,512 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:58:12,515 - risk_control - INFO - Add rule ĞÅÓÃ·ÖµÍÓÚ650 succeeded
+2025-04-24 17:58:12,518 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:58:12,521 - risk_control - INFO - Add rule ÓâÆÚ´ÎÊı³¬¹ı5´Î succeeded
+2025-04-24 17:58:12,524 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:58:12,526 - risk_control - INFO - Add rule ÓâÆÚ´ÎÊı³¬¹ı3´Î succeeded
+2025-04-24 17:58:12,528 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:58:12,530 - risk_control - INFO - Add rule ÓĞÓâÆÚ¼ÇÂ¼ succeeded
+2025-04-24 17:58:12,532 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:58:12,533 - risk_control - INFO - Add rule ×î³¤ÓâÆÚÌìÊı³¬¹ı90Ìì succeeded
+2025-04-24 17:58:12,536 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:58:12,538 - risk_control - INFO - Add rule ×î³¤ÓâÆÚÌìÊı³¬¹ı60Ìì succeeded
+2025-04-24 17:58:12,540 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:58:12,542 - risk_control - INFO - Add rule ×î³¤ÓâÆÚÌìÊı³¬¹ı30Ìì succeeded
+2025-04-24 17:58:12,543 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:58:12,545 - risk_control - INFO - Add rule ¸ºÕ®ÊÕÈë±È³¬¹ı0.6 succeeded
+2025-04-24 17:58:12,547 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:58:12,548 - risk_control - INFO - Add rule ¸ºÕ®ÊÕÈë±È³¬¹ı0.5 succeeded
+2025-04-24 17:58:12,550 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:58:12,552 - risk_control - INFO - Add rule ¸ºÕ®ÊÕÈë±È³¬¹ı0.4 succeeded
+2025-04-24 17:58:12,553 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:58:12,555 - risk_control - INFO - Add rule Í¬Ê±ÓĞ·¿´ûºÍ³µ´û succeeded
+2025-04-24 17:58:12,557 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:58:12,558 - risk_control - INFO - Add rule ´û¿î½ğ¶î³¬¹ı50Íò succeeded
+2025-04-24 17:58:12,588 - risk_control - INFO - Add log ´û¿îÆÀ¹À - ÉêÇëÈË: testB succeeded
+2025-04-24 17:58:16,901 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:58:16,904 - risk_control - INFO - Add rule ĞÅÓÃ·ÖµÍÓÚ550 succeeded
+2025-04-24 17:58:16,906 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:58:16,909 - risk_control - INFO - Add rule ĞÅÓÃ·ÖµÍÓÚ600 succeeded
+2025-04-24 17:58:16,912 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:58:16,914 - risk_control - INFO - Add rule ĞÅÓÃ·ÖµÍÓÚ650 succeeded
+2025-04-24 17:58:16,917 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:58:16,919 - risk_control - INFO - Add rule ÓâÆÚ´ÎÊı³¬¹ı5´Î succeeded
+2025-04-24 17:58:16,921 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:58:16,922 - risk_control - INFO - Add rule ÓâÆÚ´ÎÊı³¬¹ı3´Î succeeded
+2025-04-24 17:58:16,925 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:58:16,927 - risk_control - INFO - Add rule ÓĞÓâÆÚ¼ÇÂ¼ succeeded
+2025-04-24 17:58:16,928 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:58:16,930 - risk_control - INFO - Add rule ×î³¤ÓâÆÚÌìÊı³¬¹ı90Ìì succeeded
+2025-04-24 17:58:16,932 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:58:16,933 - risk_control - INFO - Add rule ×î³¤ÓâÆÚÌìÊı³¬¹ı60Ìì succeeded
+2025-04-24 17:58:16,935 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:58:16,936 - risk_control - INFO - Add rule ×î³¤ÓâÆÚÌìÊı³¬¹ı30Ìì succeeded
+2025-04-24 17:58:16,938 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:58:16,939 - risk_control - INFO - Add rule ¸ºÕ®ÊÕÈë±È³¬¹ı0.6 succeeded
+2025-04-24 17:58:16,941 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:58:16,943 - risk_control - INFO - Add rule ¸ºÕ®ÊÕÈë±È³¬¹ı0.5 succeeded
+2025-04-24 17:58:16,944 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:58:16,946 - risk_control - INFO - Add rule ¸ºÕ®ÊÕÈë±È³¬¹ı0.4 succeeded
+2025-04-24 17:58:16,947 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:58:16,949 - risk_control - INFO - Add rule Í¬Ê±ÓĞ·¿´ûºÍ³µ´û succeeded
+2025-04-24 17:58:16,951 - risk_control - INFO - Add log Create rule succeeded
+2025-04-24 17:58:16,952 - risk_control - INFO - Add rule ´û¿î½ğ¶î³¬¹ı50Íò succeeded
+2025-04-24 17:58:16,984 - risk_control - INFO - Add log ´û¿îÆÀ¹À - ÉêÇëÈË: testB succeeded
+2025-04-24 17:58:16,986 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:58:16,987 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:58:16,989 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:58:16,990 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:58:16,992 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:58:16,993 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:58:16,995 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:58:16,996 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:58:16,998 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:58:17,000 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:58:17,002 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:58:17,003 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:58:17,005 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:58:17,007 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:58:17,008 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:58:17,010 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:58:17,011 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:58:17,013 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:58:17,015 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:58:17,016 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:58:17,018 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:58:17,019 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:58:17,021 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:58:17,023 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:58:17,024 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:58:17,026 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:58:17,028 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:58:17,029 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:58:17,031 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:58:17,033 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 17:58:17,034 - risk_control - INFO - Add log Add name list record succeeded
+2025-04-24 17:58:17,036 - risk_control - INFO - Add name list entry 123123 succeeded
+2025-04-24 23:01:49,540 - database - INFO - Database initialization completed
+2025-04-24 23:02:41,262 - database - INFO - Database initialization completed
+2025-04-24 23:06:35,156 - database - INFO - Database initialization completed
+2025-04-24 23:12:11,214 - database - INFO - Database initialization completed

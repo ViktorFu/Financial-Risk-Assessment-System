@@ -1,0 +1,22 @@
+project/
+├── Client/
+│   ├── controllers/       # 控制器（业务逻辑）
+│   │   ├── admin_controller.py
+│   │   └── user_controller.py
+│   ├── models/            # 数据模型（数据库操作）
+│   │   ├── database.py    # 数据库初始化、连接
+│   │   ├── user_model.py
+│   │   └── log_model.py
+│   ├── views/             # 界面组件
+│   │   ├── login_window.py
+│   │   ├── user_info_window.py
+│   │   ├── admin_window.py
+│   │   └── tabs/          # 管理员标签页组件
+│   │       ├── user_management_tab.py
+│   │       └── log_monitoring_tab.py
+│   └── utils/             # 工具函数
+│       ├── logger.py      # 日志工具
+│       └── helpers.py
+├── config/                # 配置文件
+│   └── settings.py
+└── main.py                # 程序入口
