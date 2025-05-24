@@ -63,3 +63,5 @@ class LoginWindow(QWidget):
         if result:
             self.login_success.emit(username, is_admin)
             self.close()
+        else:
+            QMessageBox.warning(self, 'Login Failed', 'Invalid username, password, or insufficient permissions!')

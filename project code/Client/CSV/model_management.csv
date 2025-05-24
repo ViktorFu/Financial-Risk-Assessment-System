@@ -1,3 +1,0 @@
-id,log_id,model_name,model_file,model_version,environment,caller,approver,verified,rollback,create_time
-1,1,Model A,b'filedata',1.0,Prod,admin,manager,1,0,2025-04-12
-2,2,Model B,b'filedata',2.0,Dev,user1,manager,0,1,2025-04-12

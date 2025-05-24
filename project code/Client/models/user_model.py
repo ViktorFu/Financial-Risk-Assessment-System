@@ -1,3 +1,4 @@
+import sqlite3
 from Client.models.database import get_connection
 
 class UserModel:

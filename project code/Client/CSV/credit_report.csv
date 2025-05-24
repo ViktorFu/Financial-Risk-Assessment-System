@@ -1,3 +1,0 @@
-id,rule_id,log_id,status,data_source,name,risk_domain,value,value_type,identification,create_time
-1,1,1,1,Credit Bureau,John Doe,1,123456789,1,AB1234567,2025-04-12
-2,2,2,2,Credit Bureau,Jane Smith,2,987654321,2,CD7654321,2025-04-12

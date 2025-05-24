@@ -1,3 +1,0 @@
-report_id,name,phone,region,city,age,format,status,timestamp,issuer
-CR0016,User 1,34043327,Beijing Haidian,Beijing Haidian,100,JSON,Valid,2022/2/11 22:12,People's Bank of China
-CR0017,User 1,62905989,Beijing Haidian,Beijing Haidian,163,XML,Valid,2022/10/21 13:23,People's Bank of China
